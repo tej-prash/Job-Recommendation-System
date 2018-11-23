@@ -29,6 +29,7 @@ Stackoverflow Developer Survey 2018-survey_results_public.csv
 4) The csv files contained in the ./data/job_profile and ./data/user_profile contain the independent job and user profiles
 5) The recommendations.csv contains top 10 recommendations for a random sample(first 200 users) of the Stack Overflow dataset
 7) Cells 3 onwards contain code snippets attempted during the preprocessing stages
+NOTE: To get your own recommendations, pass 1 as the third parameter and you will be prompted to enter your details
 
 About Inferences.ipynb
 1) This contains code which was used to make inferences about the dataset
